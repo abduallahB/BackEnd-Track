@@ -1,5 +1,5 @@
 # BackEnd-Track
-This a REST API simple project By using:
+REST API simple project By using:
 - EXPRESS.js
 - Node.js
 - MongoDB
